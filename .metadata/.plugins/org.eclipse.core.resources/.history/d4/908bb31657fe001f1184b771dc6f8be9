@@ -1,0 +1,5 @@
+package io.test.moviecatalogservice.resource;
+
+public class Movie {
+
+}

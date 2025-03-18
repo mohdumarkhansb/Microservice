@@ -1,0 +1,5 @@
+package io.test.ratingdataservice.models;
+
+public class UserRating {
+
+}

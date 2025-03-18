@@ -1,0 +1,9 @@
+package io.test.ratingdataservice.models;
+
+
+public class Rating {
+	
+	private String movieId;
+	private int rating;
+
+}
